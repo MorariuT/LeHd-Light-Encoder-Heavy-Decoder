@@ -170,9 +170,9 @@ Benchmark results showing throughput and efficiency:
 
 ### Quality Comparison - Frame 1
 
-**Mode 0 (Minimum Bandwidth)** - Original vs Reconstruction:
+**Mode 0 (Minimum Bandwidth)** - Reconstruction:
 
-![Frame 1 Mode 0](screenshots/frame_1_mode0.jpg "Frame 1 Mode 0 Reconstruction")
+![Frame 1 Mode 0](screenshots/frame_1300_mode0.jpg "Frame 1 Mode 0 Reconstruction")
 
 **Mode 3 (Medium Bandwidth)** - Better quality with additional residuals:
 
