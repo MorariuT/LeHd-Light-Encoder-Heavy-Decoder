@@ -6,7 +6,7 @@ def train_on_video(
     video_path: str  = "movie3.mp4",
     model_path: str  = "model_v2.pth",
     size: int        = 256,
-    mode: int        = 3,           # bandwidth mode to train at
+    mode: int        = 0,           # bandwidth mode to train at
     device_str: str  = "mps",
     lr: float        = 1e-4,
     λ_mse: float     = 1.0,

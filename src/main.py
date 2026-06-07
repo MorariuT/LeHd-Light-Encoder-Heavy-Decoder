@@ -25,7 +25,7 @@ with torch.no_grad():
 
 print("\n── Encoder throughput (mode=0, 200 frames) ──")
 
-for _ in range(10): enc(dummy, mode=0)   # warmup
+for _ in range(10): enc(dummy, mode=0)
 
 if device.type == "cuda": torch.cuda.synchronize()
 t0 = time.perf_counter()
