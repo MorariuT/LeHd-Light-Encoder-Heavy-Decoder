@@ -176,7 +176,7 @@ Benchmark results showing throughput and efficiency:
 
 **Mode 3 (Medium Bandwidth)** - Better quality with additional residuals:
 
-![Frame 1 Mode 3](screenshots/frame_1_mode3.jpg "Frame 1 Mode 3 Reconstruction")
+![Frame 1 Mode 3](screenshots/frame_1300_mode3.jpg "Frame 1 Mode 3 Reconstruction")
 
 ---
 
